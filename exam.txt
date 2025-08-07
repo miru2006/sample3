@@ -1,2 +1,3 @@
 this is an example file to check out an githb from vsc
 this is so good
+i found the mistakes and rectified
